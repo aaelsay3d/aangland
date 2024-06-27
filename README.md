@@ -3,7 +3,7 @@
 ![The Website Demo](./images/demo.gif)
 
 ## Project Overview
-A sample landing page inspired by [The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender). This project primarily demonstrates basic CSS tools and skills including common elements (e.g., color, font, and size), the box model (e.g., margin, border, and padding), and flexbox (e.g., alignment, centering, growing/shrinking).
+A landing page inspired by [The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender). This project primarily demonstrates basic CSS tools and skills including common elements (e.g., color, font, and size), the box model (e.g., margin, border, and padding), and flexbox (e.g., alignment, centering, growing/shrinking).
 
 ## Tech/Framework Used
 - HTML
